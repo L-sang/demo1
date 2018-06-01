@@ -1,0 +1,124 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>导航文件</title>
+<style type="text/css">a{ color:#000000; text-decoration:none;}
+#Logo{
+			    
+           width:0px;height:0px;      
+           /*margin:上下 左右*/      
+           margin:0px left;      
+           border-radius:10px;      
+           /*html + css3 渐变画图 */      
+               background-image:-webkit-linear-gradient(rgba(41,41,41,0.75) 0% ,rgba(54,54,54,0.72) 50%,rgba(24,23,23,0.94) 51%);      
+           box-shadow:1px 1px 33px #000;/*设计阴影的*/  }
+		    #Logo ul li      
+      {      background-color:#6f6;/*#d3e3f5*/
+          width:175px; height:45px;      
+           list-style:none;/*去掉圆点*/      position:relative;
+               
+           color:white;/* #fff */      
+           font-size:18px;      
+          font-family:"微软雅黑";      
+          text-align:center;      
+           line-height:45px;/* 行高跟 高度一致时，竖直居中*/      
+          border-right:1px solid #000;/*右边框*/      
+       }  #Logo ul li a      
+       {      
+           color:#000;/* #fff */      
+           font-size:18px;      
+           font-family:"微软雅黑";      
+           text-decoration:none;      
+       } 
+	    #Logo ul li:hover      
+       {      
+          background:rgba(10,5,5,0.45);      
+       }   
+	    #Logo ul li.first:hover      
+       {      
+           border-radius:10px 0px 0px 10px;/*左上 左下 圆弧显示 */      
+       }      
+       #Logo ul li.last:hover      
+       {      
+          border-radius:0px 10px 10px 0px;/*右上 右下 圆弧显示 */      
+       }   
+	    #Logo ul li ul li       
+       {      
+           border:none;      
+           border-top:1px solid #989898;      
+           background:rgba(10,5,5,0.45);/*颜色透明度 */      
+           border-radius:10px;      
+       }      
+       #Logo ul li ul      
+      {      
+           display:none;/*不显示*/
+		   position:absolute; left:135px;top:0px;width:100px;boder:1px solid #ccc; border-bottom:none;      
+      }      
+       #Logo ul li ul li:hover      
+       {      
+           background:rgba(10,5,5,0.8);/*颜色透明度 */      
+           border-radius:10px;      
+       }      
+		#Logo ul li:hover ul      
+      {      
+           display:block;      
+           -webkit-animation:roll 1s ease;/*roll 旋转名称，1s旋转效果 */      
+       }      
+       @-webkit-keyframes roll /*roll旋转名称与上面一致*/      
+       {      
+           0% {-webkit-transform:rotate(0deg);}      
+           100% {-webkit-transform:rotate(360deg);}      
+       }    
+</style>
+</head>
+
+<body marginheight="0" marginwidth="0"bgcolor="#B9DCF0"  alink="#6600CC">
+<div id="Logo">      
+       <ul>      
+          <li class="first">       
+               <a href="#" >个人信息<a>      
+                <ul>      
+                   <li>      
+                       <a href="修改个人信息.html">修改个人信息</a>      
+                   </li>      
+                   <li>      
+                       <a href="查看个人信息.html">查看个人信息</a>      
+                   </li>      
+               </ul>     
+           </li>      
+           <li>       
+               <a href="#">请假申请<a>
+			   <ul>      
+                   <li>      
+                       <a href="填写请假申请.html">填写请假申请</a>      
+                   </li>      
+                   <li>      
+                       <a href="成功.html">查看请假状态</a>      
+                   </li>      
+               </ul>   
+           </li>      
+                 
+           <li>     
+               <a href="#">报销申请<a> 
+			   <ul>      
+                   <li>      
+                       <a href="填写报销申请.html">填写报销申请</a>      
+                   </li>      
+                   <li>      
+                       <a href="成功.html">查看报销状态</a>      
+                   </li>      
+               </ul>   
+           </li>      
+               
+           <li>       
+				<a href="#">刷新<a>      
+          </li>      
+          <li class="last" style="border:none;">       
+               <a href="OA登录界面.html">退出<a>      
+          </li>      
+      </ul>      
+   </div>      
+
+</body>
+</html>
