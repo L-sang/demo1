@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>二级结构</title>
+<style>
+#menu{width:100px ;border:#000}
+#menu ul{list-style:none; margin=0px; padding:0px;}
+#menu ul li{ background-color:#eee;padding:0px 8px;height:26px;line-height:26px;border-bottom:1px solid#ccc;postition:relative;}
+#menu ul li ul{display:none;position:absolute;left:9px;top:120px;width:100px;border:#fff;border-bottom:none;}
+#menu ul li.current ul{display:bloke;}
+#menu ul li:hover ul{display:block;}
+a{ text-decoration:none}
+  A:visited{COLOR:#000;TEXT-DECORATION:underline}
+A:hover{COLOR:#000;TEXT-DECORATION:none}
+
+</style>
+</head>
+
+<body>
+<div id="menu">
+<ul>
+
+<li><a href="#">首页</a></li>
+
+<li><a href="#">图书</a>
+<ul>
+<li><a href="#">少儿</a></li>
+<li><a href="#">外语</a></li>
+</ul>
+</li>
+
+<li><a href="#">百货</a>
+<ul>
+<li><a href="#">生活</a></li>
+<li><a href="#">家具</a></li>
+<li><a href="#">文具</a></li>
+</ul>
+</li>
+
+<li><a href="#">服装</a>
+<ul>
+<li><a href="#">女装</a></li>
+<li><a href="#">男装</a></li>
+<li><a href="#">童装</a></li>
+</ul>
+</li>
+
+</ul>
+</div>
+</body>
+</html>
