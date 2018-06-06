@@ -4,12 +4,13 @@
     * FileInputStream 读取字节数组
     * FileOutputStream 写字节数组
     * 代码实现
+      
       * 定义两个流的对象变量
-```      
-      FileInputStream fis = null;
-      FileOutputStream fos = null;
-```
-      * 建立两个流的对象,绑定数据源和数据目的
+       
+         
+      * 建立两个流的对象,绑定数据源和数据目的 
+
+      
 ```
       fis = new FileInputStream("c:\\t.zip");
       fos = new FileOutputStream("d:\\t.zip");
