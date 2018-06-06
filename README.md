@@ -10,7 +10,7 @@
   * [经理](https://github.com/L-sang/demo1/blob/master/hotel/JingLi.java)
     * 经理有奖金(特有属性)
 
-* 编写测试类  
+* 编写[测试类](https://github.com/L-sang/demo1/blob/master/hotel/Test.java)  
   * 向酒店中,增加多名员工(1名经理,2名厨师,两名服务员)  
   * 调用酒店员工的工作功能  
   * 调用酒店员工的VIP服务功能
