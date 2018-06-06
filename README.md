@@ -1,13 +1,13 @@
 # 小型酒店系统
 
-* 员工共性:姓名,工号 
-* 工作方法 公共接口:VIP服务
+* [员工抽象类](https://github.com/L-sang/demo1/blob/master/hotel/Employee.java):姓名,工号(共性)
+* [公共接口](https://github.com/L-sang/demo1/blob/master/hotel/VIP.java):VIP服务,工作方法 
 * 员工类:
-  * 厨师
+  * [厨师](https://github.com/L-sang/demo1/blob/master/hotel/ChuShi.java)
     * 实现接口VIP服务(厨师做菜加量)
-  * 服务员
+  * [服务员](https://github.com/L-sang/demo1/blob/master/hotel/FuWuYuan.java)
     * 实现接口VIP服务(服务员给顾客倒酒)
-  * 经理
+  * [经理](https://github.com/L-sang/demo1/blob/master/hotel/JingLi.java)
     * 经理有奖金(特有属性)
 
 * 编写测试类  
