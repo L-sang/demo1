@@ -1,4 +1,4 @@
-# 字符流复制文件
+[# 字符流复制文件](https://github.com/L-sang/demo1/edit/master/copy_1.java)
   * 采用数组缓冲提高效率
   * 字符数组
     * 字符流复制`文本文件`,必须`文本文件`
