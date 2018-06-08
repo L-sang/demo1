@@ -5,4 +5,4 @@
   * [字符流复制文本文件项目目录](https://github.com/L-sang/demo1/blob/master/README.copy_1.md)
   * [字符流`使用缓冲区`复制文本文件项目目录](https://github.com/L-sang/demo1/blob/master/README.copy_3.md)
 
-   ### [小型酒店系统项目目录](https://github.com/L-sang/demo1/blob/master/README.hotel.md)
+       ### [小型酒店系统项目目录](https://github.com/L-sang/demo1/blob/master/README.hotel.md)
