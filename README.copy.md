@@ -1,4 +1,4 @@
-[# 字节流复制文件](https://github.com/L-sang/demo1/blob/master/copy.java)
+[# 字节流复制文件](https://github.com/L-sang/demo1/blob/master/Copyfile/copy.java)
   * 采用数组缓冲提高效率
   * 字节数组
     * FileInputStream 读取字节数组
