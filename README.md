@@ -8,4 +8,4 @@
   * [字符流`使用缓冲区`复制文本文件项目目录](https://github.com/L-sang/demo1/blob/master/README.copy_3.md)
   ### JDBC连接数据库
   * [JDBC增删改操作数据库目录](https://github.com/L-sang/demo1/blob/master/README.update.md)
-  * [JDBC查数查据库目录](https://github.com/L-sang/demo1/blob/master/README.select.md) 
+  * [JDBC查询操作数据库目录](https://github.com/L-sang/demo1/blob/master/README.select.md) 
