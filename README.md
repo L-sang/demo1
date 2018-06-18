@@ -14,4 +14,4 @@
   * [售票案例2.0(使用同步代码块)目录](https://github.com/L-sang/demo1/blob/master/README.selltickets2.0.md)
   * [售票案例3.0(使用lock接口)目录](https://github.com/L-sang/demo1/blob/master/README.selltickets3.0.md)
   ### 死锁问题
-  * [死锁问题相关代码](https://github.com/L-sang/demo1/tree/master/%E6%AD%BB%E9%94%81%E9%97%AE%E9%A2%98)https://github.com/L-sang/demo1/tree/master/%E6%AD%BB%E9%94%81%E9%97%AE%E9%A2%98)
+  * [死锁问题相关代码](https://github.com/L-sang/demo1/tree/master/%E6%AD%BB%E9%94%81%E9%97%AE%E9%A2%98)
