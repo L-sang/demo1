@@ -1,31 +1,25 @@
 package cn.itcast.demo;
 /*
- * Í¨¹ıÏß³ÌĞİÃß,³öÏÖ°²È«ÎÊÌâ
- * ½â¾ö°²È«ÎÊÌâ,java³ÌĞò,Ìá¹©¼¼Êõ,Í¬²½¼¼Êõ
- * ¹«Ê½:
- *   synchronized(ÈÎÒâ¶ÔÏó){
- *     Ïß³ÌÒª²Ù×÷µÄ¹²ÏíÊı¾İ
- *   }
- *   Í¬²½´úÂë¿é
+ * çº¿ç¨‹ä¼‘çœ ,å¯èƒ½å­˜åœ¨å®‰å…¨é—®é¢˜
  */
 public class Tickets implements Runnable{
 	
-	//¶¨Òå³öÊÛµÄÆ±Ô´
+	//å®šä¹‰å‡ºå”®çš„ç¥¨æº
 	private int ticket =100;
 	private Object obj=new Object();
    public void run() {
 	   while(true) {
-			   //Ïß³Ì¹²ÏíÊı¾İ,±£Ö¤°²È«,¼ÓÈëÍ¬²½´úÂë¿é
-			   synchronized (obj) {
+			   
+			  
 				   if(ticket>0) {
-				   //¶ÔÆ±ÊıÅĞ¶Ï,´óÓÚ0,¿ÉÒÔ³öÊÛ,±äÁ¿--²Ù×÷
+				   //å¯¹ç¥¨æ•°åˆ¤æ–­,å¤§äº0,å¯ä»¥å‡ºå”®,å˜é‡--æ“ä½œ
 					   try {
 					   Thread.sleep(10);
 					   }catch(Exception ex) {}
-				   System.out.println(Thread.currentThread().getName()+"³öÊÛµÚ"+ticket--);
+				   System.out.println(Thread.currentThread().getName()+"å‡ºå”®ç¬¬"+ticket--);
 			   }
 			   }
-	   }
+	 
    }
    
 }
