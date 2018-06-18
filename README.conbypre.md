@@ -1,10 +1,9 @@
 # 使用配置文件操作数据库
-  * [JDBC工具类](https://github.com/L-sang/demo1/blob/master/JDBC%E6%93%8D%E4%BD%9C%E6%95%B0%E6%8D%AE%E5%BA%93/%E4%BD%BF%E7%94%A8JDBC%E5%B7%A5%E5%85%B7%E7%B1%BB%E8%BF%9E%E6%8E%A5%E6%95%B0%E6%8D%AE%E5%BA%93/jdbcutil/JDBCUtils.java
-)
-  * [测试类](https://github.com/L-sang/demo1/blob/master/JDBC%E6%93%8D%E4%BD%9C%E6%95%B0%E6%8D%AE%E5%BA%93/%E4%BD%BF%E7%94%A8JDBC%E5%B7%A5%E5%85%B7%E7%B1%BB%E8%BF%9E%E6%8E%A5%E6%95%B0%E6%8D%AE%E5%BA%93/jdbcutil/JDBCUtils.java)
-  * [加载配置文件](https://github.com/L-sang/demo1/blob/master/JDBC%E6%93%8D%E4%BD%9C%E6%95%B0%E6%8D%AE%E5%BA%93/%E4%BD%BF%E7%94%A8JDBC%E5%B7%A5%E5%85%B7%E7%B1%BB%E8%BF%9E%E6%8E%A5%E6%95%B0%E6%8D%AE%E5%BA%93/jdbcutil/JDBCUtils.java)
-  * [数据表数据封装对象](https://github.com/L-sang/demo1/blob/master/JDBC%E6%93%8D%E4%BD%9C%E6%95%B0%E6%8D%AE%E5%BA%93/%E4%BD%BF%E7%94%A8JDBC%E5%B7%A5%E5%85%B7%E7%B1%BB%E8%BF%9E%E6%8E%A5%E6%95%B0%E6%8D%AE%E5%BA%93/jdbcutil/JDBCUtils.java)
-   * [配置文件](https://github.com/L-sang/demo1/blob/master/JDBC%E6%93%8D%E4%BD%9C%E6%95%B0%E6%8D%AE%E5%BA%93/%E4%BD%BF%E7%94%A8JDBC%E5%B7%A5%E5%85%B7%E7%B1%BB%E8%BF%9E%E6%8E%A5%E6%95%B0%E6%8D%AE%E5%BA%93/jdbcutil/JDBCUtils.java)
+  * [JDBC工具类](https://github.com/L-sang/demo1/tree/master/JDBC%E6%93%8D%E4%BD%9C%E6%95%B0%E6%8D%AE%E5%BA%93/%E4%BD%BF%E7%94%A8%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C%E6%95%B0%E6%8D%AE%E5%BA%93/JDBC%E5%B7%A5%E5%85%B7%E7%B1%BB)
+  * [数据表数据封装对象](https://github.com/L-sang/demo1/tree/master/JDBC%E6%93%8D%E4%BD%9C%E6%95%B0%E6%8D%AE%E5%BA%93/%E4%BD%BF%E7%94%A8%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C%E6%95%B0%E6%8D%AE%E5%BA%93/%E6%95%B0%E6%8D%AE%E8%A1%A8%E6%95%B0%E6%8D%AE%E5%B0%81%E8%A3%85%E5%AF%B9%E8%B1%A1) 
+  * [配置文件](https://github.com/L-sang/demo1/blob/master/JDBC%E6%93%8D%E4%BD%9C%E6%95%B0%E6%8D%AE%E5%BA%93/%E4%BD%BF%E7%94%A8%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C%E6%95%B0%E6%8D%AE%E5%BA%93/database.properties)
+  * [加载配置文件](https://github.com/L-sang/demo1/tree/master/JDBC%E6%93%8D%E4%BD%9C%E6%95%B0%E6%8D%AE%E5%BA%93/%E4%BD%BF%E7%94%A8%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%8A%A0%E8%BD%BD%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
+   * [测试类](https://github.com/L-sang/demo1/tree/master/JDBC%E6%93%8D%E4%BD%9C%E6%95%B0%E6%8D%AE%E5%BA%93/%E4%BD%BF%E7%94%A8%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C%E6%95%B0%E6%8D%AE%E5%BA%93/%E6%B5%8B%E8%AF%95%E7%B1%BB)
   
 
    
