@@ -11,5 +11,5 @@
   * [JDBC查询操作数据库目录](https://github.com/L-sang/demo1/blob/master/README.select.md) 
   ### 多线程售票系统
   * [售票案例1.0(线程不安全)目录](https://github.com/L-sang/demo1/blob/master/README.selltickets1.0.md)
-  * [售票案例2.0目录](https://github.com/L-sang/demo1/blob/master/README.selltickets2.0.md)
-  * [售票案例3.0目录](https://github.com/L-sang/demo1/blob/master/README.selltickets3.0.md)
+  * [售票案例2.0(使用同步代码块)目录](https://github.com/L-sang/demo1/blob/master/README.selltickets2.0.md)
+  * [售票案例3.0(使用lock接口)目录](https://github.com/L-sang/demo1/blob/master/README.selltickets3.0.md)
