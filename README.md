@@ -16,7 +16,7 @@
   ### 死锁问题
   * [死锁问题相关代码](https://github.com/L-sang/demo1/tree/master/%E6%AD%BB%E9%94%81%E9%97%AE%E9%A2%98)
   ### 线程通信案例
-  * [创建多线程(输入流,输出流)](https://github.com/L-sang/demo1/tree/master/%E6%AD%BB%E9%94%81%E9%97%AE%E9%A2%98)
+  * [创建多线程(输入流,输出流)](https://github.com/L-sang/demo1/blob/master/%E7%BA%BF%E7%A8%8B%E9%80%9A%E4%BF%A1%E6%A1%88%E5%88%97(%E7%AD%89%E5%BE%85%E4%B8%8E%E5%94%A4%E9%86%92%E6%9C%BA%E5%88%B6)/ThreadDemo.java)
   * [共享数据(操作对象)](https://github.com/L-sang/demo1/tree/master/%E6%AD%BB%E9%94%81%E9%97%AE%E9%A2%98)
   * [输入流(赋值)](https://github.com/L-sang/demo1/tree/master/%E6%AD%BB%E9%94%81%E9%97%AE%E9%A2%98)
   * [输出流(打印)](https://github.com/L-sang/demo1/tree/master/%E6%AD%BB%E9%94%81%E9%97%AE%E9%A2%98)
