@@ -15,3 +15,9 @@
   * [售票案例3.0(使用lock接口)目录](https://github.com/L-sang/demo1/blob/master/README.selltickets3.0.md)
   ### 死锁问题
   * [死锁问题相关代码](https://github.com/L-sang/demo1/tree/master/%E6%AD%BB%E9%94%81%E9%97%AE%E9%A2%98)
+  ### 线程通信案例
+  * [创建多线程(输入流,输出流)](https://github.com/L-sang/demo1/tree/master/%E6%AD%BB%E9%94%81%E9%97%AE%E9%A2%98)
+  * [共享数据(操作对象)](https://github.com/L-sang/demo1/tree/master/%E6%AD%BB%E9%94%81%E9%97%AE%E9%A2%98)
+  * [输入流(赋值)](https://github.com/L-sang/demo1/tree/master/%E6%AD%BB%E9%94%81%E9%97%AE%E9%A2%98)
+  * [输出流(打印)](https://github.com/L-sang/demo1/tree/master/%E6%AD%BB%E9%94%81%E9%97%AE%E9%A2%98)
+ 
