@@ -1,4 +1,4 @@
  # 售票案例2.0(同步代码解决安全问题)
   * [创建多线程](https://github.com/L-sang/demo1/blob/master/%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%94%AE%E7%A5%A8%E7%B3%BB%E7%BB%9F/%E5%88%9B%E5%BB%BA%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%94%AE%E7%A5%A8)
-  * [创建共享数据(使用同步代码)](https://github.com/L-sang/demo1/blob/master/%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%94%AE%E7%A5%A8%E7%B3%BB%E7%BB%9F/2.%E5%90%8C%E6%AD%A5%E4%BB%A3%E7%A0%81%E5%9D%97%E8%A7%A3%E5%86%B3%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98/Tickets(%E5%90%8C%E6%AD%A5%E6%96%B9%E6%B3%95).java)
-  * [创建共享数据(使用同步代码)](https://github.com/L-sang/demo1/blob/master/%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%94%AE%E7%A5%A8%E7%B3%BB%E7%BB%9F/2.%E5%90%8C%E6%AD%A5%E4%BB%A3%E7%A0%81%E5%9D%97%E8%A7%A3%E5%86%B3%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98/Tickets(%E5%90%8C%E6%AD%A5%E6%96%B9%E6%B3%95).java)
+  * [创建共享数据(使用同步代码块)]()
+  * [创建共享数据(使用同步方法代码)](https://github.com/L-sang/demo1/blob/master/%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%94%AE%E7%A5%A8%E7%B3%BB%E7%BB%9F/2.%E5%90%8C%E6%AD%A5%E4%BB%A3%E7%A0%81%E5%9D%97%E8%A7%A3%E5%86%B3%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98/Tickets(%E5%90%8C%E6%AD%A5%E6%96%B9%E6%B3%95).java)
