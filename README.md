@@ -9,6 +9,8 @@
   ### JDBC连接数据库
   * [JDBC增删改操作数据库目录](https://github.com/L-sang/demo1/blob/master/README.update.md)
   * [JDBC查询操作数据库目录](https://github.com/L-sang/demo1/blob/master/README.select.md) 
+  * [使用JDBC工具类连接数据库目录](https://github.com/L-sang/demo1/blob/master/README.conbyutil.md) 
+  * [使用配置文件操作数据库目录](https://github.com/L-sang/demo1/blob/master/README.conbypre.md) 
   ### 多线程售票系统
   * [售票案例1.0(线程不安全)目录](https://github.com/L-sang/demo1/blob/master/README.selltickets1.0.md)
   * [售票案例2.0(使用同步代码块)目录](https://github.com/L-sang/demo1/blob/master/README.selltickets2.0.md)
