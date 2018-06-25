@@ -1,20 +1,17 @@
 # 斗地主
 
-斗地主流程图
-![](https://github.com/L-sang/value/blob/master/%E6%96%97%E5%9C%B0%E4%B8%BB%E5%8A%9F%E8%83%BD.JPG)
+项目分层图
+![](https://github.com/L-sang/demo1/blob/master/%E7%AE%A1%E5%AE%B6%E5%A9%86%E9%A1%B9%E7%9B%AE/%E9%A1%B9%E7%9B%AE%E4%B8%AD%E7%9A%84%E5%88%86%E5%B1%82.JPG)
+* 项目各层
+  * 视图层
+  * 控制层
+  * 业务层
+  * dao层
 
- 实现模拟斗地主的功能 
-* 组合牌
-  * 创建Map集合,键是编号,值是牌
-  * 创建List集合,存储编号
-  * 定义出13个点数的数组{"2","A","K","Q","J","10","9","8","7","6","5","4","3"};
-  * 定义4个花色数组{"♠","♥","♣","♦"};
-  * 遍历数组,花色+点数的组合,存储到Map集合
-```  for(String number : numbers){
-			for(String color : colors){
-				pooker.put(index, color+number);
-				pookerNumber.add(index);
-				index++;
-			}
-		}
-```  
+* 实现管家婆处理账务的功能
+  * 添加账务
+  * 编辑账务
+  * 删除账务
+  * 查询账务
+  * 退出系统
+
