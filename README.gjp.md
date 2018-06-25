@@ -5,7 +5,7 @@
 * 前期开发环境搭建 
   * [工具类`连接数据库`](https://github.com/L-sang/demo1/blob/master/%E7%AE%A1%E5%AE%B6%E5%A9%86%E9%A1%B9%E7%9B%AE/src/cn/itcast/gjp/tools/JDBCUtils.java)
   * [所需要的jar包`提供驱动类,连接池等技术`](https://github.com/L-sang/demo1/tree/master/%E7%AE%A1%E5%AE%B6%E5%A9%86%E9%A1%B9%E7%9B%AE/jar%E5%8C%85)
-  * [项目所需的数据库]()
+  * [项目所需的数据库](https://github.com/L-sang/demo1/blob/master/%E7%AE%A1%E5%AE%B6%E5%A9%86%E9%A1%B9%E7%9B%AE/gjp%E6%95%B0%E6%8D%AE%E5%BA%93/gjp.sql)
 
 * 项目各层
   * [视图层](https://github.com/L-sang/demo1/blob/master/%E7%AE%A1%E5%AE%B6%E5%A9%86%E9%A1%B9%E7%9B%AE/src/cn/itcast/gjp/view/MainView.java)
