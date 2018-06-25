@@ -4,7 +4,7 @@
 ![](https://github.com/L-sang/demo1/blob/master/%E7%AE%A1%E5%AE%B6%E5%A9%86%E9%A1%B9%E7%9B%AE/%E9%A1%B9%E7%9B%AE%E4%B8%AD%E7%9A%84%E5%88%86%E5%B1%82.JPG)
 * 前期开发环境搭建 
   * [工具类`连接数据库`]()
-  * [所需要的jar包`提供驱动类,连接池等技术`](
+  * [所需要的jar包`提供驱动类,连接池等技术`](https://github.com/L-sang/demo1/tree/master/%E7%AE%A1%E5%AE%B6%E5%A9%86%E9%A1%B9%E7%9B%AE/jar%E5%8C%85)
 /*
  * 定义方法,查询数据库,带有条件查询账务数据 
  * 方法由业务层调用,查询结果集存储到Bean对象,存储到List集合
