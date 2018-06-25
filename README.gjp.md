@@ -39,6 +39,9 @@
   } 
   
   ```
+   ### 运行结果图
+    
+    ![](https://github.com/L-sang/demo1/blob/master/%E7%AE%A1%E5%AE%B6%E5%A9%86%E9%A1%B9%E7%9B%AE/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C%E5%9B%BE/insert.png)
   * 编辑账务
   ```
   /*
@@ -61,6 +64,9 @@
   	  }
   } 
   ```
+   ### 运行结果图
+    
+    ![](https://github.com/L-sang/demo1/blob/master/%E7%AE%A1%E5%AE%B6%E5%A9%86%E9%A1%B9%E7%9B%AE/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C%E5%9B%BE/update.png)
   * 删除账务
   ```
     /*
@@ -79,7 +85,11 @@
      	 }
   } 
   ```
+    ### 运行结果图
+    
+    ![](https://github.com/L-sang/demo1/blob/master/%E7%AE%A1%E5%AE%B6%E5%A9%86%E9%A1%B9%E7%9B%AE/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C%E5%9B%BE/delect.png)
   * 查询账务
+  
   ```
   
   /*
@@ -100,7 +110,7 @@
 	  	throw new RuntimeException("条件查询失败");
 	  }
 
-  }
+  }  
 
    /*
    *定义方法,查询数据库,获取所有的账务数据 
@@ -119,8 +129,15 @@
 		  }
  
   }
-
+ 
   
   ```
+   ### 运行结果图
+    
+    ![](https://github.com/L-sang/demo1/blob/master/%E7%AE%A1%E5%AE%B6%E5%A9%86%E9%A1%B9%E7%9B%AE/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C%E5%9B%BE/select.png)
+
+  ### 运行结果图
+    
+    ![](https://github.com/L-sang/demo1/blob/master/%E7%AE%A1%E5%AE%B6%E5%A9%86%E9%A1%B9%E7%9B%AE/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C%E5%9B%BE/selectall.png)
   * 退出系统
 
