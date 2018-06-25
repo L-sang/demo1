@@ -1,4 +1,6 @@
 # 项目目录
+  ### 管家婆项目
+  * [管家婆项目目录](https://github.com/L-sang/demo1/blob/master/README.gjp.md)
   ### 小型酒店系统
   * [小型酒店系统项目目录](https://github.com/L-sang/demo1/blob/master/README.hotel.md)
   ### 使用IO流读写文件
